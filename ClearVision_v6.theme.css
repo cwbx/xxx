@@ -1,7 +1,7 @@
 /**
  * @name ClearVision
  * @author ClearVision Team
- * @version 6.9.0
+ * @version 6.3.0
  * @description Highly customizable theme for BetterDiscord.
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
@@ -16,10 +16,10 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  --main-color: #adacac; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #f5f0f0; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --success-color: #2f0080; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --danger-color: #baa800; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/1151261686376964160/1211795766675247253/carti.gif?ex=65ef7fc0&is=65dd0ac0&hm=9b198fba369d126d10a43fdedaa1935e97a492a568cfb2124c33decc811750c0&); /* app background image (link must be HTTPS) [default: url(https://i.pinimg.com/564x/f8/48/6b/f8486bef2498b664e5d5b8648770c4a7.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://i.pinimg.com/564x/8c/bc/5b/8cbc5b107943efe237d2233172c383f2.jpg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
